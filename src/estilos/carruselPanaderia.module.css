@@ -1,0 +1,15 @@
+.padre{
+    display: flex;
+    gap: 1rem;
+    flex-wrap: wrap;
+    margin: 0 1rem;
+} 
+
+.botones{
+    background-color: rgb(182, 142, 142);
+    width: 4rem;
+    height: 4rem;
+    margin: auto 0;
+    border: none;
+    border-radius: 50%;
+}
